@@ -1,2 +1,2 @@
 # expx-assets
-Resources data
+EXPX resources
